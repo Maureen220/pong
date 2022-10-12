@@ -6,7 +6,7 @@
     | |     | |___| | |   | | \____/|
     |_|      \_____/|_|   |_|\_____/ 
 
-###Object-oriented programming to recreate the classic game of Pong using Python
+Object-oriented programming to recreate the classic game of Pong using Python
 
 <br> 
 
